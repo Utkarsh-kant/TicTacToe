@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="text_name">TicTacToe</string>
+    <string name="EditText">Welcome to the TicTacToe game.CLick on button to start the game.First player is X and 2nd player is O.</string>
+</resources>
